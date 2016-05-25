@@ -1,0 +1,26 @@
+{
+  "name": "test_shop",
+  "description": "shop for express",
+  "main": "",
+  "keywords": [
+    "express"
+  ],
+  "authors": [
+    "toneyszeto"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/pubilc/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-route": "^1.5.5",
+    "bootstrap": "^3.3.6"
+  }
+}

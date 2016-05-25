@@ -1,0 +1,5 @@
+bower init
+touch .gitignore
+bower install bootstrap
+bower install angular angular-route --save
+doskey /history >> cmd.log

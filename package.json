@@ -1,0 +1,25 @@
+{
+  "name": "test_shop",
+  "version": "1.0.0",
+  "description": "shop of express",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToneySzeto/test_shop.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "toneyszeto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ToneySzeto/test_shop/issues"
+  },
+  "homepage": "https://github.com/ToneySzeto/test_shop#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
